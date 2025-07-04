@@ -50,4 +50,13 @@ MIT
 
 ---
 
+
+## Contributing
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute.
+
+## Screenshot
+You can add a screenshot of the app here (e.g., `client/public/screenshot.png`).
+
+---
+
 > This project is a clean starter template. For feature requests, open an issue or fork the repo!
